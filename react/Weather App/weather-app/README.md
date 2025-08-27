@@ -6,9 +6,11 @@ Even though the design for this project is only functional and there is much roo
 For example, changing the icon depending on the temperature or creating a menu subitem for the hourly weather data.
 
 Desktop view:
+
 <img width="1920" height="920" alt="WeatherApp - Desktop" src="https://github.com/user-attachments/assets/ae6e5de6-ca83-4b8d-af55-6c587a9d67e6" />
 
 Mobile view: 
+
 <img width="386" height="809" alt="image" src="https://github.com/user-attachments/assets/79a125e5-78ff-4fbd-9954-fd0351779b0a" />
 
 For this project, I used the free API from https://www.weatherapi.com/ for the weather data.
