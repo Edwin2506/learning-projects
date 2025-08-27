@@ -1,0 +1,13 @@
+.forecast-hourly {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    padding: 1rem;
+    gap: 8px;
+    flex-direction: center;
+    align-items: center;
+}
+
+#forecast-hourly-temp_c {
+    font-weight: bold;
+}
