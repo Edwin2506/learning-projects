@@ -7,7 +7,7 @@ For example, changing the icon depending on the temperature or creating a menu s
 
 Desktop view:
 
-<img width="1920" height="920" alt="WeatherApp - Desktop" src="https://github.com/user-attachments/assets/ae6e5de6-ca83-4b8d-af55-6c587a9d67e6" />
+<img width="1920" height="921" alt="WeatherApp - Desktop" src="https://github.com/user-attachments/assets/4379af55-951e-461d-9ab2-f543063df1c8" />
 
 Mobile view: 
 
